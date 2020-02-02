@@ -14,9 +14,8 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 [![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
+![Hireable](https://cdn.rawgit.com/hiendv/hireable/master/styles/default/yes.svg)
 
 <!-- PROJECT LOGO -->
 <br />
@@ -64,7 +63,7 @@ Here are the objectives for this project:
 	* To achieve this we divided the page in different sections with articles within them
 * Align elements using float and flex
 
-This is also part of the Odin project curriculum https://www.theodinproject.com/courses/html5-and-css3/lessons/building-with-responsive-design
+This is also part of the Odin project curriculum ["BUILDING WITH RESPONSIVE DESIGN"](https://www.theodinproject.com/courses/html5-and-css3/lessons/building-with-responsive-design)
 
 ### Built With
 This project was built using these technologies.
@@ -79,7 +78,7 @@ This project was built using these technologies.
 <!-- LIVE VERSION -->
 ## Live version
 
-You can see it here:  https://majovainilla.github.io/responsive-design/
+You can see it [here](https://majovainilla.github.io/responsive-design/)
 
 <!-- CONTACT -->
 ## Contact
@@ -103,7 +102,7 @@ Project Link: [https://github.com/majovainilla/responsive-design)
 [contributors-shield]: https://img.shields.io/github/contributors/majovainilla/responsive-design.svg?style=flat-square
 [contributors-url]: https://github.com/majovainilla/responsive-design/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/majovainilla/responsive-design.svg?style=flat-square
-[forks-url]: https://github.com/majovainilla/responsive-design/network/members
+[forks-url]: https://github.com/majovanilla/responsive-design/network/members
 [stars-shield]: https://img.shields.io/github/stars/majovainilla/responsive-design.svg?style=flat-square
 [stars-url]: https://github.com/majovainilla/responsive-design/stargazers
 [issues-shield]: https://img.shields.io/github/issues/majovainilla/responsive-design.svg?style=flat-square

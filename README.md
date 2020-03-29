@@ -52,7 +52,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://majovainilla.github.io/responsive-design/)
+[![Product Name Screen Shot][product-screenshot]](https://euqueme.github.io/responsive-design/)
 
 This project is a prototype based on the https://thenextweb.com/ page.
 
@@ -78,7 +78,7 @@ This project was built using these technologies.
 <!-- LIVE VERSION -->
 ## Live version
 
-You can see it [here](https://majovainilla.github.io/responsive-design/)
+You can see it [here](https://euqueme.github.io/responsive-design/)
 
 <!-- CONTACT -->
 ## Contact

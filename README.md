@@ -14,7 +14,9 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 [![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
 ![Hireable](https://cdn.rawgit.com/hiendv/hireable/master/styles/default/yes.svg)
 
 <!-- PROJECT LOGO -->
@@ -45,8 +47,11 @@
 
 * [About the Project](#about-the-project)
   * [Built With](#built-with)
-* [Live Version](#live-version)
-* [Contact](#contact)
+  * [Live Version](#live-version)
+  * [Usage](#usage)
+  * [Automated Test](#automated-test)
+* [Author](#author)
+* [Contributing](#contributing)
 * [Acknowledgements](#acknowledgements)
 
 <!-- ABOUT THE PROJECT -->
@@ -76,19 +81,42 @@ This project was built using these technologies.
 * Prettier 
 
 <!-- LIVE VERSION -->
-## Live version
+## Live Version
 
 You can see it [here](https://euqueme.github.io/responsive-design/)
 
+## Usage
+
+To use it locally [download](https://github.com/euqueme/responsive-design/archive/master.zip) or clone this project with the following command on a terminal:
+
+```git clone https://github.com/euqueme/responsive-design.git```
+
+After that, cd to the responsive-design folder and open the index.html file in your browser, play with the screen sizes to see how it changes responsiveness
+
+![screenshot](img/responsive-mockup.png)
+
+<!-- AUTOMATED TEST -->
+## Automated Test
+
+> There are no Automated Test for this project yet
+
 <!-- CONTACT -->
-## Contact
+## Author
 
-María José Reyes - [@majovainilla](https://github.com/majovainilla) - maria_reyes@me.com
+👤 María Eugenia Quemé - [@MaruKK](https://twitter.com/MaruKK) - [@euqueme](https://github.com/euqueme) - euqueme@gmail.com
 <br />
 <br />
-María Eugenia Quemé - [@MaruKK](https://twitter.com/MaruKK) - [@euqueme](https://github.com/euqueme) - euqueme@gmail.com
+👤 María José Reyes - [@majovainilla](https://github.com/majovainilla) - maria_reyes@me.com
 
-Project Link: [https://github.com/majovainilla/responsive-design)
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/euqueme/responsive-desing/issues).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
@@ -99,12 +127,12 @@ Project Link: [https://github.com/majovainilla/responsive-design)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/majovainilla/responsive-design.svg?style=flat-square
-[contributors-url]: https://github.com/majovainilla/responsive-design/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/majovainilla/responsive-design.svg?style=flat-square
-[forks-url]: https://github.com/majovanilla/responsive-design/network/members
-[stars-shield]: https://img.shields.io/github/stars/majovainilla/responsive-design.svg?style=flat-square
-[stars-url]: https://github.com/majovainilla/responsive-design/stargazers
-[issues-shield]: https://img.shields.io/github/issues/majovainilla/responsive-design.svg?style=flat-square
-[issues-url]: https://github.com/majovainilla/responsive-design/issues
+[contributors-shield]: https://img.shields.io/github/contributors/euqueme/responsive-design.svg?style=flat-square
+[contributors-url]: https://github.com/euqueme/responsive-design/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/euqueme/responsive-design.svg?style=flat-square
+[forks-url]: https://github.com/euqueme/responsive-design/network/members
+[stars-shield]: https://img.shields.io/github/stars/euqueme/responsive-design.svg?style=flat-square
+[stars-url]: https://github.com/euqueme/responsive-design/stargazers
+[issues-shield]: https://img.shields.io/github/issues/euqueme/responsive-design.svg?style=flat-square
+[issues-url]: https://github.com/euqueme/responsive-design/issues
 [product-screenshot]: img/screenshot.PNG
